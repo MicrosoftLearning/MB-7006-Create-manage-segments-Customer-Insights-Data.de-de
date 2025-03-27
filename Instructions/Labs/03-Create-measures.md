@@ -39,7 +39,7 @@ In dieser ersten Aufgabe erstellen wir ein Measure, um den Durchschnittswert all
 
 1. Wählen Sie die Schaltfläche **Ausführen** aus, um Ihr Measure abzuschließen.
 
-In dieser nächsten Aufgabe erstellen wir ein Measure, um den Mittelwert aller Webkäufe zu definieren, die bei **Contoso Coffee** getätigt wurden.
+    In dieser nächsten Aufgabe erstellen wir ein Measure, um den Mittelwert aller Webkäufe zu definieren, die bei **Contoso Coffee** getätigt wurden.
 
 1. Wählen Sie **Insights > Measures** aus dem linken Navigationsmenü aus.
 
@@ -94,7 +94,7 @@ In dieser Aufgabe erstellen wir ein Measure, um die Summe aller In-Store-Einkäu
 
 1. Wählen Sie die Schaltfläche **Ausführen** aus, um Ihr Measure abzuschließen. Wenn ein Fehler auftritt und der **Beziehungspfad**ausgewählt werden muss, wählen Sie **PoS_Purchases > Kunde** und dann die Schaltfläche **Ausführen** aus, um den Vorgang abzuschließen.
 
-Als Nächstes erstellen wir ein Measure, um die Summe aller online getätigten Einkäufe zu definieren.
+    Als Nächstes erstellen wir ein Measure, um die Summe aller online getätigten Einkäufe zu definieren.
 
 1. Wählen Sie **Insights > Measures** aus dem linken Navigationsmenü aus.
 
@@ -135,7 +135,7 @@ Zunächst definieren wir **Treuepunkte insgesamt**, die von jedem Kunden erzielt
 
 1. Wählen Sie die Schaltfläche **Ausführen** aus, um Ihr Measure abzuschließen.
 
-Als Nächstes definieren wir den Gesamtwert aller Einkäufe, die für jeden Kunden getätigt wurden.
+    Als Nächstes definieren wir den Gesamtwert aller Einkäufe, die für jeden Kunden getätigt wurden.
 
 1. Wählen Sie **Insights > Measures** aus dem linken Navigationsmenü aus.
 
@@ -157,11 +157,9 @@ Als Nächstes definieren wir den Gesamtwert aller Einkäufe, die für jeden Kund
 
 1. Wählen Sie die Registerkarte **Measures** aus, erweitern Sie **TotalOnlineSpend: CustomerInsights**, wählen Sie **Berechnung 1** und dann **Hinzufügen** aus.
 
-1. Ihr abgeschlossenes Measure ähnelt der Abbildung unten:
-
 1. Wählen Sie die Schaltfläche **Ausführen** aus, um Ihr Measure abzuschließen.
 
-Als Nächstes definieren wir den Durchschnittswert aller Store-Käufe für jeden Kunden.
+    Als Nächstes definieren wir den Durchschnittswert aller Store-Käufe für jeden Kunden.
 
 1. Wählen Sie **Insights > Measures** aus dem linken Navigationsmenü aus.
 
