@@ -20,7 +20,7 @@ In dieser ersten Aufgabe erstellen wir ein Segment basierend auf dem Kundenprofi
 
 1. Für **Feld** wählen Sie **Staat** und für **Wert** wählen Sie **Texas**.
 
-1. Wählen Sie **Review** (Überprüfen) aus.
+1. Wählen Sie **Überprüfen** aus.
 
 1. Nennen Sie das Segment **Kundschaft aus Texas** und vergewissern Sie sich, dass der **Ausgabetabellen-Name** automatisch mit **CustomersFromTexas** gefüllt wurde.
 
@@ -39,7 +39,7 @@ Contoso Coffee Marketing möchte eine neue Werbeaktion durchführen. Basierend a
 
 1. Legen Sie den **Wert** auf **100** fest. Das Diagramm sollte mit **Durchschnittlicher Webkauf ($)** nach Perzentil aufgefüllt werden.
 
-1. Wählen Sie **Review** (Überprüfen) aus.
+1. Wählen Sie **Überprüfen** aus.
 
 1. Nennen Sie das Segment **Premium-Kundschaft** und stellen Sie sicher, dass der **Ausgabetabellen-Name** automatisch mit **PremiereCustomers** ausgefüllt wurde.
 
